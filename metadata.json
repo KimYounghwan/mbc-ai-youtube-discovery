@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Content Discovery AI",
+  "description": "An AI-powered dashboard to discover viral YouTube topics by analyzing subscriber-to-view ratios and viewer sentiment using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
